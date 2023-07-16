@@ -59,6 +59,8 @@ npm run json:server. It’ll run your server locally on http://localhost:3000
 
   ![image](https://github.com/Mamun104/restapi-create-nodejs-and-jsonserver/assets/78067017/67bd9074-920a-4e52-8ce4-9a0be374d947)
 
+## GET
+
 - You can also perform operations such as sorting, filtering, searching, etc. Below are some of the examples:
 * http://localhost:3000/users/2 (Returns the user with id-2)
 * http://localhost:3000/users?_limit=2 (Sets the limit to return 2 records)
