@@ -1,4 +1,4 @@
-# restapi-create-nodejs-and-jsonserver
+# Rest API Create using Nodejs and Json-server
 
 ## Technology and Tool Used
 - Postman
